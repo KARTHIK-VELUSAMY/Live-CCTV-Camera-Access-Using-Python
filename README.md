@@ -1,7 +1,5 @@
 # Live-CCTV-Camera-Access-Using-Python
 To Access Live CCTV Camera Using Python
-# Live-CCTV-Camera-Access-Using-Python
-To Access Live CCTV Camera Using Python
 # Environment setup:
 
 1. Install Anaconda:
